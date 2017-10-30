@@ -1,0 +1,9 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}INTRODUCCION:}{1}{section.1}
+\contentsline {section}{\numberline {2}METODOLOGIA:}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Parte 1}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Parte 2}{3}{subsection.2.2}
+\contentsline {section}{\numberline {3}C\IeC {\'O}DIGOS IMPLEMENTADOS:}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}C\IeC {\'o}digo de Scilab}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}C\IeC {\'o}digo propio}{5}{subsection.3.2}
+\contentsline {section}{\numberline {4}CONCLUSIONES:}{7}{section.4}
