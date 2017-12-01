@@ -1,0 +1,33 @@
+Check list for laboratory reports.
+
+Formato y forma:
+- [X] Ortografia: Muchas faltas de ortografa y errores de escritura 
+- [OK] Estilo
+- [OK] Estructura
+- [OK] Originalidad
+- [X] Imagens, Tablas y Referencias: No se describen adecuadamente las figuras (pie de figura) o secciones de código
+- [X] Estilo de referencias : No hay referencias bibliográficas
+
+Contenido:
+- [OK] Introducción
+- [OK] Metodología
+- [OK] Desarrollo
+- [OK] Simulación
+- [X] Resultados: No se compara la función propia con la de Scilab
+- [OK] Conclusiones
+
+Comparación de los resultados:
+- [OK] Scilab y Ecuaciones 
+- [X] Respuesta al escalón: No se compara 
+- [OK] Modos de operación del sistema Wo=Wi, Wo><Wi
+- [X] Conclusiones: No se comenta nada acerca de la función que se desarrolló, respecto al punto donde se indica que Wi=Wo hay un error sí
+debera de haber gráfica; para Juan Alberto, las conclusiones deben de ser técnicas, no hacer comentarios acerca de lo claro que era la práctica
+o no, entodo caso si requieres hacer comentarios agrega comentarios y observasiones.
+
+Repositorio:
+- [X] Carpetas
+- [X] Código Scilab
+- [OK] Código de Latex
+- [OK] Entregado en tiempo
+
+Grade=84
